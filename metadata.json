@@ -1,0 +1,6 @@
+{
+  "name": "KineticsAI - Class 9 Motion AI Teacher",
+  "description": "Interactive AI face tutor for Class 9 Physics Chapter Motion, featuring adaptive learning style assessment, visual diagrams, doubt clearing, and automated notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
